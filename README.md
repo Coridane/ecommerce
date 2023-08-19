@@ -16,8 +16,8 @@
 
   ## Video
 
-  
-  
+  https://drive.google.com/file/d/1DhlvinEAsvTDG6WEDeCpiz3wLpSt3LxT/view?usp=drive_link
+    
   ## Links
 
-  Repo: https://github.com/Coridane/script-employee-db  
+  Repo: https://github.com/Coridane/ecommerce
